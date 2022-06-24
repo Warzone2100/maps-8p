@@ -1,0 +1,12 @@
+{
+    "name": "Sk-TheGrid",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Mysteryem"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-11-10 06:29:00",
+    "generator": "wzmaplib 1.0.3"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "DA-gr-canyon-v1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ismir Ögal"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-10-05 18:12:58",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

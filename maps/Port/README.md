@@ -1,0 +1,1 @@
+Pretty big map for 8 players.

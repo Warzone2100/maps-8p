@@ -1,0 +1,13 @@
+{
+    "name": "Mero_NTWKingV2",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Merowingg"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-02-05 07:55:23",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "flaME v1.10"
+}

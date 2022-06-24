@@ -1,0 +1,1 @@
+Large (220x220) 8-player map with a big city in a forest in the middle of the map. It is also possible to play 2vs2vs2vs2 or 4vs4. 4 oils and 4 trucks/base. 128 oil at the terrain = 20 oil/player. Advanced bases with light defense structures

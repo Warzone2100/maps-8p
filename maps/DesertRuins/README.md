@@ -1,0 +1,1 @@
+A relatively small and tight 8-player FFA map; supports 2x2x2x2 and 4x4 matches in multiple layouts.
