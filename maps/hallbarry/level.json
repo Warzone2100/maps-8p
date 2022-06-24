@@ -1,0 +1,13 @@
+{
+    "name": "hallbarry",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "tmp[BDC]"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-07-14 23:28:48",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

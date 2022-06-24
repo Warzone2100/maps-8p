@@ -1,0 +1,1 @@
+attacking on water works well, but be sure your not going to be overrun with borgs on land

@@ -1,0 +1,7 @@
+{
+    "name": "Sk-TheGrid",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "generator": "wzmaplib 1.0.3"
+}

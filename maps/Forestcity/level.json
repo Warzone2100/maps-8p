@@ -1,0 +1,13 @@
+{
+    "name": "Forestcity",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "montetank"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-11-19 22:00:50",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

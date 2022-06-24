@@ -1,0 +1,3 @@
+A large 2x2x2x2 team FFA map.
+
+The middle is pretty special. There are 5 oils here, 4 of which can be targeted from the middle, but cannot be easily accessed from there. So controlling the middle gives you just a few extra oil, but completely turtling in your bases will actually give your enemy much more extra oils. There are also 8 oil drums in the middle, accessible only by tanks; 4 of the middle oils are also blocked.

@@ -1,0 +1,13 @@
+{
+    "name": "butterfly",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Virus- A"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-10-21 15:20:22",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,1 @@
+A large 8-player FFA map. 

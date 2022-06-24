@@ -1,0 +1,13 @@
+{
+    "name": "DesertRuins",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-08-03 21:57:05",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}
