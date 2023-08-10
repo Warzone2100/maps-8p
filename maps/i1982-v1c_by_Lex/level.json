@@ -1,0 +1,13 @@
+{
+    "name": "i1982-v1c_by_Lex",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "legion_Lex"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-05-08 22:25:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

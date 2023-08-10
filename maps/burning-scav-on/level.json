@@ -1,0 +1,13 @@
+{
+    "name": "burning-scav-on",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "test"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-11-18 16:13:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

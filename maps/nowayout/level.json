@@ -1,0 +1,13 @@
+{
+    "name": "nowayout",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "KAYAFTEN"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-04-03 17:56:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

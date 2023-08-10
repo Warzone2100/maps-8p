@@ -1,0 +1,13 @@
+{
+    "name": "citadelV0",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "vaut and co"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-06-15 17:26:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

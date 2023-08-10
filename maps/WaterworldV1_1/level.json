@@ -1,0 +1,13 @@
+{
+    "name": "WaterworldV1_1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "TEG"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-09-29 00:00:23",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.22 Windows"
+}

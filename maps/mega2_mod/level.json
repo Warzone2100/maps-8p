@@ -1,0 +1,13 @@
+{
+    "name": "mega2_mod",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ig rok"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-08-03 15:29:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

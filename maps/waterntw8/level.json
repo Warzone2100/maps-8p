@@ -1,0 +1,13 @@
+{
+    "name": "waterntw8",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "lege"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-04-26 15:58:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
