@@ -1,0 +1,13 @@
+{
+    "name": "Galliopi",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Scavenger Rockets"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-18 16:50:34",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

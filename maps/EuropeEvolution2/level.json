@@ -1,0 +1,13 @@
+{
+    "name": "EuropeEvolution2",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Boris"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-05-24 13:17:04",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.18 Visual Basic 2010"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Hamilcar_bendib",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-03-06 20:12:19",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13",
+    "additional-authors": [
+        {
+            "name": "Original author of hamilcar"
+        }
+    ]
+}

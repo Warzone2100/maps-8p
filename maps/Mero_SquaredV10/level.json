@@ -1,0 +1,13 @@
+{
+    "name": "Mero_SquaredV10",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Merowingg"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-10-18 18:26:05",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Great_Hall",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "UnP_Pain"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-12-23 12:31:49",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

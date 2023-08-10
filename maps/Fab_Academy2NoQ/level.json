@@ -1,0 +1,13 @@
+{
+    "name": "Fab_Academy2NoQ",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Fabio_IT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-09-30 20:22:03",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

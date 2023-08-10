@@ -1,0 +1,13 @@
+{
+    "name": "Mazzzz",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "www"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-17 15:32:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

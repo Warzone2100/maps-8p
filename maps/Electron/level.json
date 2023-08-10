@@ -1,0 +1,13 @@
+{
+    "name": "Electron",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-01-05 23:11:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

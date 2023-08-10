@@ -1,0 +1,13 @@
+{
+    "name": "Mero_TwoRivers",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Merowingg"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-10-20 15:50:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Liberation",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Vendicatorem"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-01-24 20:36:43",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

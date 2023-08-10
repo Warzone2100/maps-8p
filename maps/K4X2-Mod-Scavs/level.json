@@ -1,0 +1,13 @@
+{
+    "name": "K4X2-Mod-Scavs",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "GZT"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-04-08 00:55:49",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

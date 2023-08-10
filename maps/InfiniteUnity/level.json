@@ -1,0 +1,13 @@
+{
+    "name": "InfiniteUnity",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ben"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-03-18 22:18:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

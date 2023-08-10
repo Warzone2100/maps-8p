@@ -1,0 +1,11 @@
+{
+    "name": "NTTProtoV09",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Iluvalar"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "generator": "wzmaplib 1.2.2"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Island8v2",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ+vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-03-19 20:15:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "KaTaNa",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "$$$john$$$"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-04-15 16:31:17",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}
