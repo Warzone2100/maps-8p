@@ -1,0 +1,13 @@
+{
+    "name": "NTWNew_UnP",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_Gama"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-10-22 11:25:11",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

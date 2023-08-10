@@ -1,0 +1,13 @@
+{
+    "name": "Opa-NTW-V1-2019",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Opa"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2019-09-16 21:52:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

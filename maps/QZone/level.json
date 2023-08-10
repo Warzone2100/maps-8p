@@ -1,0 +1,13 @@
+{
+    "name": "QZone",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Core"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-04-08 04:07:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

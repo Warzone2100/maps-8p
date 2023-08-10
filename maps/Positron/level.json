@@ -1,0 +1,13 @@
+{
+    "name": "Positron",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "bendib aka Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-10-31 07:03:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.22 Mono 2.10.1"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "R_ColosseumWZT",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Decebalus_Rex"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-07-07 19:34:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

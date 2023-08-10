@@ -1,0 +1,13 @@
+{
+    "name": "NTW_Rex_v1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Rex"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-01-15 17:58:35",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

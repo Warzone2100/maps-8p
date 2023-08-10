@@ -1,0 +1,13 @@
+{
+    "name": "PacM8",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Oswin"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-07-21 11:50:31",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.18 Visual Basic 2010"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Nexus",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Lin Hui"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2016-04-10 17:06:35",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

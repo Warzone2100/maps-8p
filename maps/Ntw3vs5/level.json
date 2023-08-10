@@ -1,0 +1,13 @@
+{
+    "name": "Ntw3vs5",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Axel"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-07-22 17:26:04",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

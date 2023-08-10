@@ -1,0 +1,13 @@
+{
+    "name": "Opa-Arena51-OWLB",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Opa"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2020-04-07 22:36:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
