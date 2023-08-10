@@ -1,0 +1,13 @@
+{
+    "name": "ClansBattle",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "LUIGI"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2010-12-26 18:40:15",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

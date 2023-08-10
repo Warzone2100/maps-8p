@@ -1,0 +1,13 @@
+{
+    "name": "BensPrison-v4",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Subsentient aka bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-12-08 20:14:57",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.22 Mono 2.10.1"
+}

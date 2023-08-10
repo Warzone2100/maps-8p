@@ -1,0 +1,13 @@
+{
+    "name": "AntiSquared40",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-02-02 04:27:27",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.12"
+}

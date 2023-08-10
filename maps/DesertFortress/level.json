@@ -1,0 +1,13 @@
+{
+    "name": "DesertFortress",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "ISA-Excalibur"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-02-10 22:11:18",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Darkstar",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "UnP_Gama"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-01-13 11:42:43",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "CamoTest",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Androxx Traxxon"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-02-22 17:57:37",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Colosseum-2-WZ",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "bastien"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-10-13 00:25:32",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

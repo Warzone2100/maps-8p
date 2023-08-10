@@ -1,0 +1,13 @@
+{
+    "name": "CA-VolleyBall",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "CAlculus"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2016-01-15 23:35:16",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

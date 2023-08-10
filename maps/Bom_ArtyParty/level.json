@@ -1,0 +1,13 @@
+{
+    "name": "Bom_ArtyParty",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "BoomEi"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-12-14 08:07:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

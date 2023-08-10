@@ -1,0 +1,13 @@
+{
+    "name": "AirSpires-beta1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "effigy"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-08-08 21:08:04",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

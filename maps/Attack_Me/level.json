@@ -1,0 +1,13 @@
+{
+    "name": "Attack_Me",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_revenger"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-07-10 16:23:35",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.15"
+}

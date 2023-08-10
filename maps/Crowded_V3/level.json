@@ -1,0 +1,13 @@
+{
+    "name": "Crowded_V3",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Spyro_Drag"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-11-13 00:30:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

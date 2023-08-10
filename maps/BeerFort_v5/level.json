@@ -1,0 +1,13 @@
+{
+    "name": "BeerFort_v5",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Beer"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-11 18:17:20",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

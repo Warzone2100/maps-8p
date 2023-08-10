@@ -1,0 +1,13 @@
+{
+    "name": "AchtEckBB1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Boss"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-12-11 01:40:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Assault_FFA",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "rb"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2019-11-03 20:24:59",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

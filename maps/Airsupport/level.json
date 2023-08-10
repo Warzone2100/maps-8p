@@ -1,0 +1,13 @@
+{
+    "name": "Airsupport",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "BrickTop"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-05-10 15:22:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

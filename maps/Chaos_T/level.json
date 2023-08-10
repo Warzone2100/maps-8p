@@ -1,0 +1,13 @@
+{
+    "name": "Chaos_T",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-11-12 09:29:35",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.24 Windows"
+}
