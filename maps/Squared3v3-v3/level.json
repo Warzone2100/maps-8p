@@ -1,0 +1,13 @@
+{
+    "name": "Squared3v3-v3",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-05-10 19:29:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "RemnantsOfWar",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Ertox"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-10-09 14:49:44",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.22 Windows"
+}

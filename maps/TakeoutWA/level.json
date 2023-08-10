@@ -1,0 +1,13 @@
+{
+    "name": "TakeoutWA",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Gaurav"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-10-24 10:51:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

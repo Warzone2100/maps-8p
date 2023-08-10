@@ -1,0 +1,13 @@
+{
+    "name": "Tic-Tac-Toe",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "JJB"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-01-18 21:31:22",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

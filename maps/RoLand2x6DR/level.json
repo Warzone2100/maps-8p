@@ -1,0 +1,13 @@
+{
+    "name": "RoLand2x6DR",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Decebalus_Rex"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-03-21 17:37:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

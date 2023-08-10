@@ -1,0 +1,13 @@
+{
+    "name": "TkeTheFortHP",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Creekie"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-05-30 13:16:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

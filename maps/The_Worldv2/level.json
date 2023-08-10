@@ -1,0 +1,13 @@
+{
+    "name": "The_Worldv2",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Micah Fonken"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-08-20 15:32:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

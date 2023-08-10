@@ -1,0 +1,13 @@
+{
+    "name": "Surv_3vs5_1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "DraLUSAD"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-25 14:02:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

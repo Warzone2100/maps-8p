@@ -1,0 +1,13 @@
+{
+    "name": "SpIkE",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "$$$john$$$"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-10-01 22:25:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

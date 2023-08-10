@@ -1,0 +1,13 @@
+{
+    "name": "S_Base",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-01-16 04:46:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

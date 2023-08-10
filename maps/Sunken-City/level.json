@@ -1,0 +1,13 @@
+{
+    "name": "Sunken-City",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "JJB"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-01-18 22:04:45",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

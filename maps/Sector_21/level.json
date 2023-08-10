@@ -1,0 +1,13 @@
+{
+    "name": "Sector_21",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "UnP_Gama"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-01-21 13:43:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
