@@ -1,0 +1,13 @@
+{
+    "name": "Ng-TKOscavs",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2022-10-25 16:24:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
