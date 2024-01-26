@@ -1,0 +1,1 @@
+this is a 3 vs 5 NTW, to balance strong players vs average/weak players games
