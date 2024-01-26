@@ -1,0 +1,13 @@
+{
+    "name": "Ng-MiniSnow",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2022-09-08 18:15:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
