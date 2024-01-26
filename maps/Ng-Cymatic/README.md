@@ -1,0 +1,1 @@
+Low oils map for FFA games; it could be played also 4v4 or 2v2v2v2
