@@ -1,0 +1,1 @@
+Medium oils 4v4 with strong scavs; not suggested for single player, bots could have strange behaviours because of targets unreachable by ground.
