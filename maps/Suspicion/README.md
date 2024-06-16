@@ -1,0 +1,1 @@
+Fight for the ressource on the 2 peaks of mont suspicion while keeping a close eye on the side lanes.
