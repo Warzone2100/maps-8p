@@ -1,0 +1,13 @@
+{
+    "name": "Island_Moon",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Don Gohore Be Huszar"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2014-04-29 17:05:09",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}
