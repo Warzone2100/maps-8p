@@ -1,0 +1,13 @@
+{
+    "name": "ilu-8split-lowV1",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Iluvalar"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-02-10 13:26:58",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "flaME v1.13"
+}
