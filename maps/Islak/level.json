@@ -1,0 +1,13 @@
+{
+    "name": "Islak",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "gbh"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-06-22 00:02:31",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}
