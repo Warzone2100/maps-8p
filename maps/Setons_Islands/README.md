@@ -1,0 +1,1 @@
+Map based on Seton's Clutch from Supreme Commander, edited to fit better with Warzone 2100 gameplay
