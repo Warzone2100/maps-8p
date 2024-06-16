@@ -1,0 +1,13 @@
+{
+    "name": "GohkFinal",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Gbe"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-07-15 23:40:55",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.28 Windows"
+}
