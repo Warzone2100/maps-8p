@@ -1,0 +1,13 @@
+{
+    "name": "Setons_Clutch",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Kuodos"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2024-03-17 23:14:40",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.29 Windows"
+}
