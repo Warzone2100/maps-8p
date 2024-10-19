@@ -1,0 +1,11 @@
+{
+    "name": "NTW_4x4_Full",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "ligtsanger"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "generator": "wzmaplib 1.2.7"
+}
