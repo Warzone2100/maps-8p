@@ -1,0 +1,1 @@
+Larger version for 8 players of the classic Sk-Rush map.

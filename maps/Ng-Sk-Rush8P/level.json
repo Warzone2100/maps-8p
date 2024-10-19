@@ -1,0 +1,13 @@
+{
+    "name": "Ng-Sk-Rush8P",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "Nergal"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2023-10-07 15:41:26",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
