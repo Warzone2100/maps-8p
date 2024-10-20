@@ -1,0 +1,13 @@
+{
+    "name": "Ng-WWZ",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "nergal"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2024-08-27 02:34:36",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
