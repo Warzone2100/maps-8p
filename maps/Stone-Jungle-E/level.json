@@ -1,0 +1,13 @@
+{
+    "name": "Stone-Jungle-E",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2020-08-21 20:01:22",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
