@@ -1,0 +1,11 @@
+{
+    "name": "Opa-Elite",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "Opa"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "generator": "wzmaplib 1.3.2"
+}
