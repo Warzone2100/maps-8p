@@ -1,0 +1,1 @@
+This narrower version of NTW puts greater emphasis on teamplay and defense.
