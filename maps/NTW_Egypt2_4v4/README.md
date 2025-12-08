@@ -1,0 +1,1 @@
+This randomized NTW map features beautiful desert terrain with Egyptian pyramids! Although the ground is not concrete anymore, the tile types have been modified so that units don't get slowed. The map is perfectly symmetrical for fair and balanced play. Base layouts are randomized to spice things up even more. Enjoy!
