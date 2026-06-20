@@ -1,0 +1,12 @@
+{
+    "name": "NTW_Snow_4v4",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2025-12-18 22:15:00",
+    "generator": "wzmaplib 1.4.4"
+}
