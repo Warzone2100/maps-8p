@@ -1,0 +1,12 @@
+{
+    "name": "Munatis",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2026-05-17 02:40:35",
+    "generator": "wzmaplib 1.4.4"
+}
