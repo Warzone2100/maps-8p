@@ -1,0 +1,13 @@
+{
+    "name": "PA_4v4_MoreFun",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "wanz"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2025-01-20 21:02:44",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
